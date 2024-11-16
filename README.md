@@ -63,8 +63,8 @@ I have successfully integrated **USSD** and **SMS** services alongside payment w
 
 ### ⚡ Fun Fact:
 I thrive on learning new **programming languages** and **frameworks** to build better systems and simplify complex processes.
-Looking forward to collaborating with you!
----
 
+---
+Looking forward to collaborating with you!
 
 
